@@ -87,17 +87,16 @@ Here are the insights derived from the dataset:
 This project is licensed under the MIT License.
 
 <h3>If you have any feedback or need guidance, don't hesitate to reach out to the collaborators listed below:</h3>
-
-<ul>Usha Yadav
-  <ul>
-    <li><a href='https://github.com/ushaayadav'>Github</a></li>
-    <li><a href='https://www.linkedin.com/in/ushayadav14/'>Linkedin</a></li>
-  </ul>
-</ul>
 <ul>Akhil K N
   <ul>
     <li><a href='https://github.com/akhilkn27'>Github</a></li>
     <li><a href='https://www.linkedin.com/in/akhilkn'>Linkedin</a></li>
+  </ul>
+</ul>
+<ul>Usha Yadav
+  <ul>
+    <li><a href='https://github.com/ushaayadav'>Github</a></li>
+    <li><a href='https://www.linkedin.com/in/ushayadav14/'>Linkedin</a></li>
   </ul>
 </ul>
 <p>Feel free to contact any of the collaborators listed above for assistance or feedback on the project.</p>
